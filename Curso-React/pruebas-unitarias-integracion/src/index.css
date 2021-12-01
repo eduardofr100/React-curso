@@ -1,0 +1,14 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #fff;
+    background-color: #21232a;
+    padding: 30px;
+}
+
+button{
+    font-size: 1.5rem;
+    padding: 10px;
+    margin-right: 10px;
+}
